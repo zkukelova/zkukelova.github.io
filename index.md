@@ -4,7 +4,7 @@
 ### Projects
 
 [Project 1 Title](/sample_page)
-<img src="images/conjugate_translations.PNG?raw=true"/>
+<img src="images/conjugate_translations.PNG?raw=true"/  "height=200">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
